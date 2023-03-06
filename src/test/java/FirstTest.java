@@ -4,6 +4,7 @@ public class FirstTest {
 
     System.out.println("Приветик");
     System.out.println("Всем приветики, чтото гит не хочет работать");
+    System.out.println("Странно...");
 
     }
 
